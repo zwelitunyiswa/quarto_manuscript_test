@@ -2,9 +2,9 @@
 title: La Palma Earthquakes
 author:
   - name: Zwelithini Tunyiswa
-    orcid: 0000-0002-0760-5497
+    orcid: 0009-0008-6100-0828
     corresponding: true
-    email: steve@curvenote.com
+    email: zweli@zweli.com
     roles:
       - Investigation
       - Project administration
